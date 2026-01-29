@@ -116,5 +116,3 @@
     });
   </script>
 
-</body>
-</html><img width="9449" height="3543" alt="ammonite_bg" src="https://github.com/user-attachments/assets/c0a8f53f-a749-40d6-9fd0-4b5b3c85b42d" />
